@@ -11,6 +11,4 @@ structured format and calls freeze on all related elements to make sure
 they are immutable at run-time. This polyfill will work even on IE5.5 and
 gives your code a nice organized look that is self-documenting.
 
-It vastly improves maintainability in the unfortunate instance where you
-are hit by a bus and never commented your code. Ask yourself if you
-did not come in tomorrow could another coder pick up where you left off?
+It vastly improves maintainability and readability.
