@@ -44,5 +44,5 @@
     // turn the constants object into a read-only structure
     deepFreeze(_const);
     
-    // address constants with notation as "_const.PAGECONTENT" etc.
+    // address constants with notation as "_const.divtags.PAGECONTENT" etc.
 </script>
